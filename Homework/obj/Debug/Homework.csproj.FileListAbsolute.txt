@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\bin\Debug\Homework.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\bin\Debug\Homework.exe
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\bin\Debug\Homework.pdb
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\obj\Debug\Homework.exe
+c:\users\hp\documents\visual studio 2017\Projects\HomeworkCollections\Homework\obj\Debug\Homework.pdb
